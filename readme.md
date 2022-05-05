@@ -1,2 +1,1 @@
-On branch master - Primeira alteração. 
-On branch master - Segunda alteração. 
+Meu primeiro sistema no GIT alterado e atualizado.
